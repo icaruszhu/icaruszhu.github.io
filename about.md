@@ -12,7 +12,7 @@ permalink: /about/
 - LLB (SISU, Shanghai) 
 - LLM (with Distinction, Edinburgh)  	
 - PhD (LSE)  	
-- Fellow of High Education Academy  	
+- Fellow of High Education Academy  (UK)	
 
 ### Research interest
 - Historical and Theoretical Aspects of Copyright Law
@@ -34,13 +34,7 @@ permalink: /about/
 - International Committee, College of Arts and Law, University of Birmingham 
 
 ## Work Address
-Birmingham Law School
-College of Arts and Law
-University of Birmingham
-Edgbaston, Birmingham
-West Midland
-United Kingdom
-B15 2TT
+Birmingham Law School <br/>College of Arts and Law <br/>University of Birmingham <br/>Edgbaston, Birmingham <br/>West Midland <br/>United Kingdom <br/>B15 2TT
 
 ## Past position
 - Postdoctoral Research Fellow 
