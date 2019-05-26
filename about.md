@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Chen W Zhu
+
+## Chen Wei Zhu
 - Lecturer in Law  (University of Birmingham)
 
 ### Qualification
