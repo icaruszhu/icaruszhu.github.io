@@ -4,16 +4,16 @@ title: About
 permalink: /about/
 ---
 
-# Chen W Zhu
+## Chen W Zhu
 - Lecturer in Law  (University of Birmingham)
 
-## Qualification
+### Qualification
 - LLB (SISU, Shanghai) 
 - LLM (with Distinction, Edinburgh)  	
 - PhD (LSE)  	
 - Fellow of High Education Academy  	
 
-## Research interest
+### Research interest
 - Historical and Theoretical Aspects of Copyright Law
 - Moral Rights Claim/Legal Construction of Authorship
 - Law of Trade Marks and Brands
@@ -22,11 +22,12 @@ permalink: /about/
 - Free and Open Source Software (FOSS) Licensing
 - Using FOSS Tools for Academic Writing
 
-## Teaching 
-- LLB Intellectual Property  (LLBf, final year, module leader)
+### Teaching 
+- LLB Intellectual Property  (LLB, final year, module leader)
 - LLB Contemporary Issues in International Law and Globalisation (LLB, Year 2)
 - LLM Intellectual Property Law--An advanced IP course (module leader)
-## Administrative Service
+
+### Administrative Service
 - LLM Pathway Director (Commercial & International Commercial Law) 
 - Programme Director of LLB with Business 
 - International Committee, College of Arts and Law, University of Birmingham 
