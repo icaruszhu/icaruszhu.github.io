@@ -6,7 +6,8 @@ permalink: /about/
 
 
 ## Chen Wei Zhu
-- Lecturer in Law  (University of Birmingham)
+- Lecturer in Law  (College of Arts and Law, University of Birmingham)
+- Yet Another Legal Academic (who loves emacs... ) 
 
 ### Qualification
 - LLB (SISU, Shanghai) 
