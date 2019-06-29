@@ -1,8 +1,8 @@
 ---
-title:  non-crypto-bitcoin
-date:   2019-05-26 15:43:04 +0100
+title:  non-crypto-bitcoin 
 categories: bitcoin
 ---
+
 
 
 
