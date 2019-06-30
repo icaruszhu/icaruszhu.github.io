@@ -5,13 +5,21 @@
     <description>This is YALA's website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Jun 2019 11:34:59 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2019 11:34:59 +0100</lastBuildDate>
+    <pubDate>Sun, 30 Jun 2019 17:04:04 +0100</pubDate>
+    <lastBuildDate>Sun, 30 Jun 2019 17:04:04 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>non-crypto-bitcoin</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bitcoin/bitcoin.jpg&quot; alt=&quot;bitcoin&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+        <description>&lt;h1 id=&quot;non-cryptographic-currency-in-the-making&quot;&gt;non-cryptographic currency in the making&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;尝试制作一种非加密比特币&lt;/li&gt;
+  &lt;li&gt;是一种土法 量化宽松（Quantitative Easing）的方法&lt;/li&gt;
+  &lt;li&gt;兼一种扰乱市场经济的行为;-)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;bitcoin.jpg&quot; alt=&quot;bitcoin&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
