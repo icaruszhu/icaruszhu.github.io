@@ -4,6 +4,6 @@ title:  "Copying Banksymus"
 date:   2016-05-26 15:43:04 +0100
 categories: a picture
 ---
-Copying Banksymus on a clay tablet
+Copying Banksymus on a clay tablet by Chen
 
 ![copying bankysmus](https://raw.githubusercontent.com/icaruszhu/icaruszhu.github.io/master/_posts/Icarus%20Banksymus%20Maximus.jpg?token=ALENQRCVXPLQCR2KMNEC57S6CXNTE)
