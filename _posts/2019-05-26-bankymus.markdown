@@ -6,4 +6,4 @@ categories: a picture
 ---
 Copying Banksymus on a clay tablet by Chen
 
-![copying bankysmus](https://raw.githubusercontent.com/icaruszhu/icaruszhu.github.io/master/_posts/Icarus%20Banksymus%20Maximus.jpg?token=ALENQRCVXPLQCR2KMNEC57S6CXNTE)
+![copying bankysmus](https://raw.githubusercontent.com/icaruszhu/icaruszhu.github.io/master/assets/Icarus%20Banksymus%20Maximus.jpg?token=ALENQRAWV5UJ2YMXGNCMRNS6PHWZY)
