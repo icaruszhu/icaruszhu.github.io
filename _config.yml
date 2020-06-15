@@ -1,14 +1,10 @@
-
 # Setup
-
-
-locale:       "en"
 
 title: Chen Wei Zhu
 description:  Yet Another Legal Academic @ Birmingham Law School, UK
 tagline: Yet Another Legal Academic | YALA
-baseurl:      ""
-
+baseurl: ""
+locale: "en"
 
 author: Chen Zhu
 email: c.w.zhu[at]bham.ac.uk
@@ -18,9 +14,13 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 
+# tab
+#- title: Home
+#  url: /
+#- title: IP
+#  url: /ip/
 
-
-
+  
 # Gems
 gems:
   - jekyll-paginate
