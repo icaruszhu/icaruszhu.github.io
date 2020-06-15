@@ -41,3 +41,5 @@ Back to [Chen's Un-Thought](https://icaruszhu.github.io/zhu)
 
 ## Work Address
 Birmingham Law School <br/>College of Arts and Law <br/>University of Birmingham <br/>Edgbaston, Birmingham <br/>West Midland <br/>United Kingdom <br/>B15 2TT
+
+## Selected [Publications](https://icaruszhu.github.io/zhu/publication/) 
