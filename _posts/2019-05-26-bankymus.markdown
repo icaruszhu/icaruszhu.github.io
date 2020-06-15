@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Copying Banksymus"
-date:   2016-05-26 15:43:04 +0100
-categories: a picture
----
-Copying Banksymus on a clay tablet by Chen
-
-![copying bankysmus](https://raw.githubusercontent.com/icaruszhu/icaruszhu.github.io/master/assets/Icarus%20Banksymus%20Maximus.jpg?token=ALENQRAWV5UJ2YMXGNCMRNS6PHWZY)
