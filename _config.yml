@@ -14,12 +14,9 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
 
-# tab
-#- title: Home
-#  url: /
-#- title: IP
-#  url: /ip/
-
+# include _pages
+include: 
+  - _pages
   
 # Gems
 gems:
