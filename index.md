@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Back to [Chen's Un-Thought](https://icaruszhu.github.io/zhu)
+
 # Chen Wei Zhu
 
 - Lecturer in Law  (College of Arts and Law, University of Birmingham)
@@ -44,3 +44,7 @@ Back to [Chen's Un-Thought](https://icaruszhu.github.io/zhu)
 Birmingham Law School <br/>College of Arts and Law <br/>University of Birmingham <br/>Edgbaston, Birmingham <br/>West Midland <br/>United Kingdom <br/>B15 2TT
 
 # Selected [Publications](https://icaruszhu.github.io/zhu/publication/) 
+
+
+
+# [Chen's Random Un-Thoughts](https://icaruszhu.github.io/chen)
