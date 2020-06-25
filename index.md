@@ -7,7 +7,7 @@ layout: default
 # Chen Wei Zhu
 
 - Lecturer in Law  (College of Arts and Law, University of Birmingham)
-- Yet Another Legal Academic (who loves [Emacs](https://icaruszhu.github.io/zhu/org-mode/)... ) 
+- Yet Another Legal Academic (who uses [Emacs](https://icaruszhu.github.io/chen/org-mode/)... ) 
 
 -------------------------
 
@@ -23,11 +23,11 @@ layout: default
 ## Research interest
 - Historical and Theoretical Aspects of Copyright Law
 - Moral Rights Claim/Legal Construction of Authorship
-- [Music Copyright](https://icaruszhu.github.io/zhu/music-law/) 
+- [Music Copyright](https://icaruszhu.github.io/chen/music-law/) 
 - Law of Trade Marks and Brands
 - Ambush Marketing and Image Rights 
 - Law and Software
-- Free and Open Source Software (FOSS) Licensing
+- [Free and Open Source Software (FOSS) Licensing](https://icaruszhu.github.io/chen/seminar/)
 - FOSS Authoring Tools for Legal Research
 
 ## Teaching 
@@ -48,3 +48,4 @@ Birmingham Law School <br/>College of Arts and Law <br/>University of Birmingham
 
 
 # [Chen's Random Un-Thoughts](https://icaruszhu.github.io/chen)
+
