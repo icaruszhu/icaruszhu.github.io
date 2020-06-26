@@ -23,7 +23,9 @@ layout: default
 ## Research interest
 - Historical and Theoretical Aspects of Copyright Law
 - Moral Rights Claim/Legal Construction of Authorship
-- [Music Copyright](https://icaruszhu.github.io/chen/music-law/) 
+- Music Copyright 
+  - [Music Copyright in History](https://icaruszhu.github.io/chen/music-law/)
+  - [Music Borrowing and Copyright](https://www.birmingham.ac.uk/schools/law/events/2015/music-borrowing.aspx)
 - Law of Trade Marks and Brands
 - Ambush Marketing and Image Rights 
 - Law and Software
@@ -47,5 +49,5 @@ Birmingham Law School <br/>College of Arts and Law <br/>University of Birmingham
 
 
 
-# [Chen's Random Un-Thoughts](https://icaruszhu.github.io/chen)
+# Chen's [Random Un-Thoughts](https://icaruszhu.github.io/chen)
 
