@@ -6,8 +6,11 @@ layout: default
 
 # Chen Wei Zhu
 
-- Lecturer in Law  (College of Arts and Law, University of Birmingham)
+- Senior Lecturer  (College of Arts and Law, University of Birmingham)
 - Yet Another Legal Academic (who uses [Emacs](https://icaruszhu.github.io/chen/org-mode/)... ) 
+  - Intellectual (un)Property Law
+  - Informational Jurisprudence
+  - Contract and Licensing Law
 
 -------------------------
 
@@ -30,7 +33,7 @@ layout: default
 - Ambush Marketing and Image Rights 
 - Law and Software
 - [Free and Open Source Software (FOSS) Licensing](https://icaruszhu.github.io/chen/seminar/)
-- FOSS Authoring Tools for Legal Research
+- [FOSS Authoring Tools for Legal Research](https://github.com/icaruszhu/pat)
 
 ## Teaching 
 - LLB Intellectual Property  (LLB, final year, module leader)
