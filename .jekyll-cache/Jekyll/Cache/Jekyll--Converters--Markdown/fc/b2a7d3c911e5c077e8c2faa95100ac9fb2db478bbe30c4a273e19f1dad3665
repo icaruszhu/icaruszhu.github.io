@@ -1,8 +1,14 @@
-I"�<h1 id="chen-wei-zhu">Chen Wei Zhu</h1>
+I"|	<h1 id="chen-wei-zhu">Chen Wei Zhu</h1>
 
 <ul>
-  <li>Lecturer in Law  (College of Arts and Law, University of Birmingham)</li>
-  <li>Yet Another Legal Academic (who uses <a href="https://icaruszhu.github.io/chen/org-mode/">Emacs</a>… )</li>
+  <li>Senior Lecturer  (College of Arts and Law, University of Birmingham)</li>
+  <li>Yet Another Legal Academic (who uses <a href="https://icaruszhu.github.io/chen/org-mode/">Emacs</a>… )
+    <ul>
+      <li>Intellectual (un)Property Law</li>
+      <li>Informational Jurisprudence</li>
+      <li>Contract and Licensing Law</li>
+    </ul>
+  </li>
 </ul>
 
 <hr />
@@ -30,7 +36,7 @@
   <li>Ambush Marketing and Image Rights</li>
   <li>Law and Software</li>
   <li><a href="https://icaruszhu.github.io/chen/seminar/">Free and Open Source Software (FOSS) Licensing</a></li>
-  <li>FOSS Authoring Tools for Legal Research</li>
+  <li><a href="https://github.com/icaruszhu/pat">FOSS Authoring Tools for Legal Research</a></li>
 </ul>
 
 <h2 id="teaching">Teaching</h2>
